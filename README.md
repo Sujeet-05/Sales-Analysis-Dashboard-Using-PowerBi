@@ -141,11 +141,7 @@ Through this project, I gained practical experience in:
 
 🎯 KPI Development
 
-👨‍💻 Author
-
-Your Name
-
-🔗 GitHub: https://github.com/yourusername
+👨‍💻 Author-Sujeet Pandagre
 
 ⭐ If you find this project useful, don't forget to star the repository!
 
